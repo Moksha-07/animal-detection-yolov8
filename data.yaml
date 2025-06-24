@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/Animal_Dataset/Train/images
+
+val: /content/drive/MyDrive/Animal_Dataset/Val/images
+
+nc: 15
+
+names: ['zebra','woodpecker','wolf','cat','bear','butterfly','dog','flamingo','panda','horse','cow','duck','goat','dolphin','bat']
